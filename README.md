@@ -1,4 +1,4 @@
 # FastFood
-A Responsive website for a website
+A Responsive website for a restaurent
 
 ![](fastfood.gif)
